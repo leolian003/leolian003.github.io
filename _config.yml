@@ -91,7 +91,6 @@ author:
   bio         : "In this field, storytelling and problem-solving matters more than technical skills"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg
   location         : "Minneapolis"
-  email            : leolian003 at gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
