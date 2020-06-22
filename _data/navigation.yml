@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Blog"
-    url: /blog
+    url: /blogs
   - title: "Resume"
     url: /file/resume.pdf
   - title: "About"
