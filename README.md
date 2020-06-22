@@ -6,5 +6,5 @@
 
 This repository contains the source code of my website,which is powered by Minimal Mistakes.
 
-Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. As the name implies, styling is purposely minimalistic to be enhanced and customized by you :smile:.
+[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. As the name implies, styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
