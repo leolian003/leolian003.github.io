@@ -90,7 +90,7 @@ author:
   name        : "Zheming Lian"
   bio         : "Confidence Interval advocate, Bayesian lover, Data Engineering enthusiast."
   avatar           : "/assets/images/head photo.jpg"
-  location         : "Minneapolis"
+  #location         : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
