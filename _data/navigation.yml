@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: /blogs
+  - title: "My Recent Works"
+    url: /works
   - title: "Resume"
     url: /file/resume.pdf
   - title: "About"
