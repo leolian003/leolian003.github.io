@@ -2,7 +2,7 @@
 title: ""
 layout: single
 author_profile: true
-permalink: /blogs
+permalink: /work
 ---
 
 ### Stats and ML theories
