@@ -16,4 +16,4 @@ permalink: /work
 
 ### Data Visualization and BI
 
-* My main contribution to the MIS Lab, A [COVID-19 Hospitalization dashboard](https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project) (Substate-data tab) powered by Tableau. shout out to my advisor Soumya and my collegue Yi Zhu!
+* My main contribution to the MIS Lab, A [COVID-19 Hospitalization dashboard](https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project) (Substate-data tab) powered by Tableau. Shout out to my advisor Soumya and my collegue Yi Zhu!
