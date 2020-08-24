@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /about
 ---
-This website is mainly used as a data science portfolio. I also share lessons learned from daily practice on both LinkedIn publishing and Medium post. Check it out!
+Originally came from China, I just finished my graduate degree at U of MN (Master of Business Analytics), Before that I am a proud badger from the University of Wisconsin-Madison. 
 
 ### Website's name
 
