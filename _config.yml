@@ -19,7 +19,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/web logo.png"
+logo                     : "/assets/images/web logo.png?raw=True"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -69,7 +69,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/web logo.png"
+og_image                 : "/assets/images/web logo.png?raw=True"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
