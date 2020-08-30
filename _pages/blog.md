@@ -5,7 +5,7 @@ author_profile: true
 permalink: /work
 ---
 
-My interest falls in the **Science**, **Business**, and **Engineering** perspectives of data science. 
+My interest falls in the **Science**, **Engineering**, and **Business** perspectives of data science. 
 
 ### Science
 
