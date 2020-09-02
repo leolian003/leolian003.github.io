@@ -15,7 +15,7 @@ My interest falls in the **Science**, **Engineering**, and **Business** perspect
 
 * A [demo](https://github.com/leolian003/Airflow-Redshift-ETL) of ETL pipeline, powered by airflow, that are highly reusable, easy to monitor, and allows backfills of historical data. 
   * [This](https://github.com/leolian003/Redshift-ETLandDW) is an important building block of the demo, an one-time ETL pipeline for a Redshift-based data warehouse.
-* A [demo](https://github.com/leolian003/AWS-FraudDectectionPipeline) of data pipeline that enables real-time fraud detection on transaction data.
+* A [demo](https://github.com/leolian003/AWS-FraudDectectionPipeline) of data pipeline, powered by AWS, that enables real-time fraud detection on transaction data.
 
 ### Business
 
