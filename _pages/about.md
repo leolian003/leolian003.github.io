@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /about
 ---
-Originally came from China, I just finished my graduate degree at U of MN (Master of Business Analytics), Before that I am a proud badger from the University of Wisconsin-Madison. 
+I just get my graduate degree from U of MN (Master of Business Analytics), Before that I was a proud badger from the University of Wisconsin-Madison. 
 
 ### Website's name
 
