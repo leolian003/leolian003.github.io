@@ -8,4 +8,4 @@ I just get my graduate degree from U of MN (Master of Business Analytics), Befor
 
 ### Website's name
 
-Confidence Interval matters way more than point estimate! And few people care about it! 
+Confidence Interval matters way more than point estimate, everyone in the field should be aware of it!  
